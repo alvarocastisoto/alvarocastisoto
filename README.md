@@ -12,7 +12,7 @@ Desarrollador Full Stack | Java (Spring Boot) + Angular | Microservicios | Postg
 - **Odoo Addons**: módulos personalizados para mejorar flujos de POS e inventario.
 - **OXI**: app/proyecto para planificación y seguimiento de entrenamiento.
 
-## Tech stack
+## Stack técnico
 **Backend:** Java, Spring Boot, Hibernate/JPA, REST, SQL  
 **Frontend:** Angular, TypeScript  
 **BD:** PostgreSQL  
