@@ -20,5 +20,5 @@ Full-Stack Developer (Java/Spring + Angular) | Microservices | SQL | Odoo
 **DB:** PostgreSQL (y las que uses)
 
 ## Contacto
-- LinkedIn:[ (alvarocastisoto)](https://www.linkedin.com/in/alvarocastisoto/)
-- Portfolio: [(radioacademy)](https://frontend-radioacademy.vercel.app/)
+- LinkedIn:[ alvarocastisoto](https://www.linkedin.com/in/alvarocastisoto/)
+- Portfolio: [radioacademy](https://frontend-radioacademy.vercel.app/)
