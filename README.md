@@ -13,10 +13,10 @@ Desarrollador Full Stack | Java (Spring Boot) + Angular | Microservicios | Postg
 - **OXI**: app/proyecto para planificación y seguimiento de entrenamiento.
 
 ## Stack técnico
-**Backend:** Java, Spring Boot, Hibernate/JPA, REST, SQL  
-**Frontend:** Angular, TypeScript  
-**BD:** PostgreSQL  
-**Dev:** Git, Docker
+- **Backend:** Java, Spring Boot, Hibernate/JPA, REST, SQL  
+- **Frontend:** Angular, TypeScript  
+- **BD:** PostgreSQL  
+- **Dev:** Git, Docker
 
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/alvarocastisoto
