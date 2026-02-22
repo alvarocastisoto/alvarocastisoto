@@ -21,3 +21,4 @@ Desarrollador Full Stack | Java (Spring Boot) + Angular | Microservicios | Postg
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/alvarocastisoto
 - Demo/Portfolio: https://frontend-radioacademy.vercel.app
+- Email: alvarocastisoto@gmail.com
