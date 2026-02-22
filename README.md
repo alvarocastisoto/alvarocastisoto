@@ -1,22 +1,21 @@
 # Álvaro Castiñeira Soto
 
-Full-Stack Developer | Java (Spring) + Angular | Microservices | SQL | Odoo  
-📍 Vigo, Galicia (Spain)
+Desarrollador Full Stack | Java (Spring Boot) + Angular | Microservicios | PostgreSQL | Odoo  
+📍 Vigo, Galicia (España)
 
-- Construyo plataformas web, APIs y sistemas orientados a servicios.
-- Stack principal: Java, Spring Boot, Angular, PostgreSQL.
-- Enfoque: arquitectura, calidad de código, integración entre servicios y producto usable.
+- Construyo plataformas web y APIs orientadas a producto.
+- Enfoque: arquitectura, calidad de código, integración entre servicios y entrega continua de valor.
 
 ## Proyectos destacados
-- **RadioAcademy**: plataforma web (backend + frontend).
-- **RadioAcademy Microservices**: evolución a arquitectura por servicios.
-- **Odoo Addons**: módulos y mejoras para Odoo.
-- **OXI**: app/proyecto relacionado con entrenamiento y automatización.
+- **RadioAcademy**: plataforma web para gestión de cursos (backend + frontend).
+- **RadioAcademy Microservicios**: evolución a arquitectura por servicios y seguridad compartida.
+- **Odoo Addons**: módulos personalizados para mejorar flujos de POS e inventario.
+- **OXI**: app/proyecto para planificación y seguimiento de entrenamiento.
 
 ## Tech stack
 **Backend:** Java, Spring Boot, Hibernate/JPA, REST, SQL  
 **Frontend:** Angular, TypeScript  
-**DB:** PostgreSQL  
+**BD:** PostgreSQL  
 **Dev:** Git, Docker
 
 ## Contacto
