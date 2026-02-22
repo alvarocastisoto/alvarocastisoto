@@ -1,5 +1,3 @@
-# Álvaro Castiñeira Soto
-
 Desarrollador Full Stack | Java (Spring Boot) + Angular | Microservicios | PostgreSQL | Odoo  
 📍 Vigo, Galicia (España)
 
